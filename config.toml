@@ -1,7 +1,7 @@
 #Database credentials
 [postgres_credentials]
-username='postgres'
-password=''
+username='youruser'
+password='yourpassword'
 host='127.0.0.1'
 port='5432'
 
@@ -15,4 +15,4 @@ exam_marks = 'exam_marks'
 admissions = 'admissions'
 
 [file_locations]
-all_schools = '/Users/akshayranade/Documents/Personal/icad_data_management/data/sales/activity_report.csv'
+all_schools = '/Users/prathampandey/Documents/Code/Aks/icad_data_management/data/sales/activity_report.csv'
